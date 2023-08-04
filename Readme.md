@@ -10,7 +10,7 @@ Api RESTful - Faculdade
 
 1. Clone o repositório para o seu ambiente local:
 ```
-git clone https://github.com/seu-usuario/seu-projeto.git
+git clone https://github.com/Ranier7/backend-case.git
 ```
 
 2. Acesse o diretório do projeto:
